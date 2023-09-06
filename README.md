@@ -6,7 +6,7 @@ During the development process, my partner and I meticulously ensured that the d
 
 To validate the robustness and correctness of each individual component and the CPU as a complete system, my partner and I wrote an extensive set of testbenches in ModelSim. By executing these testbenches, we confirmed the correctness of every component in the CPU and verified its reliability.
 
-The code is available uppon request. Please send an email to [eomielan@gmail.com](mailto:eomielan@gmail.com)
+The code is available uppon request. Please send an email to [eomielan@gmail.com](mailto:eomielan@gmail.com) or [ljiawen49@gmail.com](mailto:ljiawen49@gmail.com).
 
 ## Diagram
 
