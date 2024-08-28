@@ -1,6 +1,6 @@
-# Simple RISC Machine
+# 16-bit RISC Machine
 
-The Simple RISC Machine project represented the culmination of our CPEN 211 class, where my partner and I took on the task of designing a fundamental Central Processing Unit (CPU) architecture. The project included a complete hardware implementation using SystemVerilog, consisting of critical components including a FSM (Finite State Machine) controller, instruction decoder, Arithmetic Logic Unit (ALU), register file, memory unit, and program counter.
+The 16-bit RISC Machine project represented the culmination of our CPEN 211 class, where my partner and I took on the task of designing a fundamental Central Processing Unit (CPU) architecture. The project included a complete hardware implementation using SystemVerilog, consisting of critical components including a FSM (Finite State Machine) controller, instruction decoder, Arithmetic Logic Unit (ALU), register file, memory unit, and program counter.
 
 During the development process, my partner and I meticulously ensured that the design followed all required specifications and standards. In the end, we succeeded in creating a functional and efficient CPU architecture that met all design requirements.
 
